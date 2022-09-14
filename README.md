@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on getting a job as a Software Engineer
 - 🌱 I’m currently learning Javascript and Python
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/brian-aguilar-088438247/'>Gmail</a> 
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/brian-aguilar-088438247/'>Linked in</a> <a href='Brian8771@gmail.com'>Gmail</a>
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
