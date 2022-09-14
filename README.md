@@ -2,11 +2,8 @@
 
 - 🔭 I’m currently working on getting a job as a Software Engineer
 - 🌱 I’m currently learning Javascript and Python
-- 📫 How to reach me: <a href='https://www.linkedin.com/in/brian-aguilar-088438247/'>Linked in</a> <a href='Brian8771@gmail.com'>Gmail</a>
-- ⚡ Fun fact: ...
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/brian-aguilar-088438247/'>Linked in</a>
+- ⚡ Fun fact: I can solve a rubik cube
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brian8771&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
